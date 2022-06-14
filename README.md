@@ -7,4 +7,4 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 
 In this project, I will apply data modeling with Postgres and build an ETL pipeline using Python. To complete the project, I will define fact and dimension tables for a star schema for a particular analytic focus, and write an ETL pipeline that transfers data from files in two local directories into these tables in Postgres using Python and SQL. 
 
-## Project 2: Data Modeling with Cassandra
+## Project 2: Spark and Data Lakes
